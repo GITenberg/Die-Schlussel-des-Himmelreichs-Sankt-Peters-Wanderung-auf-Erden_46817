@@ -1,9 +1,13 @@
 _repo: Die-Schlussel-des-Himmelreichs-Sankt-Peters-Wanderung-auf-Erden_46817
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Holm, Erich
     gutenberg_agent_id: '43969'
     url: http://www.gutenberg.org/2009/agents/43969
+covers:
+- cover_type: archival
+  image_path: 46817-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Strindberg, August
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1609
     wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46817#Die-Schlussel-des-Himmelreichs-Sankt-Peters-Wanderung-auf-Erden
 gutenberg_issued: '2014-09-09'
 gutenberg_type: Text
 identifiers:
