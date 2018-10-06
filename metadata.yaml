@@ -28,6 +28,8 @@ language: de
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Die Schlüssel des Himmelreichs
 
   Sankt Peters Wanderung auf Erden'
